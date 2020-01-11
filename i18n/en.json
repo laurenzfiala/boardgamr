@@ -1,0 +1,18 @@
+{
+  "@metadata": {
+    "authors": [
+      "Laurenz Fiala"
+    ],
+    "last-updated": "2019/09/12",
+    "locale": "en"
+  },
+  "main_cards.card_1": "PAINTING",
+  "main_cards.card_2": "DESIGN",
+  "main_cards.card_3": "PHOTOGRAPHY",
+  "about.title": "WHAT I DO",
+  "about.text": "I paint futuristic portraits, do lots of photography and other design activities.",
+  "about.slideshow_intro": "Check out my recent works in the following slideshow.",
+  "footer.love.1": "Made with",
+  "footer.love.2": "for Tobias Kropp by",
+  "footer.imprint": "Imprint"
+}

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0f1f7cc-eb76-4769-9532-c15220a3a919" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/img/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/TK Logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avatar.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/card_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/card_1_blur.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/card_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/card_2_blur.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/card_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/card_3_blur.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/chevron-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/chevron-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicon-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/Hand.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/IMG-0127.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/IMG-0314.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/IMG-0546.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/IMG-0555.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/Portrait Drawing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/Portrait Woman 3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/Unplug 2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/card_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-gallery.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-love.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-scroll-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-scroll.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-swipe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo-dark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/third-party/artstation-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/third-party/instagram-icon.svg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="width" value="1302" />
+    <option name="height" value="708" />
+  </component>
+  <component name="ProjectId" id="1RfHnlji9moE5ENXRGYCDyafb8a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\laure\dev\git\tobiaskropp-web\js\vendor" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\laure\dev\git\tobiaskropp-web" />
+      <recent name="C:\Users\laure\dev\git\tobiaskropp-web\less" />
+      <recent name="C:\Users\laure\dev\git\tobiaskropp-web\js" />
+      <recent name="C:\Users\laure\dev\git\tobiaskropp-web\i18n" />
+      <recent name="C:\Users\laure\dev\git\tobiaskropp-web\imprint" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63341/boardgamr/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0f1f7cc-eb76-4769-9532-c15220a3a919" name="Default Changelist" comment="" />
+      <created>1568198178384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568198178384</updated>
+      <workItem from="1568198180010" duration="42296000" />
+      <workItem from="1568275286497" duration="18602000" />
+      <workItem from="1568656559886" duration="297000" />
+      <workItem from="1568660493844" duration="2351000" />
+      <workItem from="1568819532802" duration="1711000" />
+      <workItem from="1569164917853" duration="17110000" />
+      <workItem from="1570051067575" duration="61000" />
+      <workItem from="1570051184411" duration="56000" />
+      <workItem from="1570051403844" duration="38000" />
+      <workItem from="1570218283955" duration="2836000" />
+      <workItem from="1571292921772" duration="28000" />
+      <workItem from="1571293638241" duration="7000" />
+      <workItem from="1578688832564" duration="8194000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

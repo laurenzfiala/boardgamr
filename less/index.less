@@ -1,0 +1,93 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+
+  background-color: @bgColor;
+  font-family: 'Segoe UI Light', sans-serif;
+  font-size: @fontSizeMd;
+  color: @fontColor;
+}
+
+.content-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: 4rem auto;
+  grid-template-areas:
+    "status status status"
+    "main main main"
+    "main main main";
+
+  width: 100%;
+  height: 100%;
+}
+
+.status-bar {
+  grid-area: status;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  border-bottom: @statusBarBorder;
+  background-color: @statusBarBgColor;
+
+  &.active {
+    background-color: @statusBarActiveBgColor;
+  }
+
+  > * {
+    flex-shrink: 0;
+  }
+}
+
+.tile-container {
+  grid-area: main;
+
+  display: flex;
+  flex-direction: row;
+}
+
+.tile-col {
+  display: flex;
+  flex-direction: column;
+
+  flex-basis: 0;
+  flex-grow: 1;
+
+  &:not(:first-child) {
+    border-left: @tileVBorder;
+  }
+
+  .tile:not(:first-child) {
+    border-top: @tileHBorder;
+  }
+}
+
+.tile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  flex-basis: 0;
+  flex-grow: 1;
+
+  cursor: pointer;
+  user-select: none;
+
+  transition: background-color 0.15s;
+
+  font-size: @fontSizeLg;
+  text-shadow: @fontShadow;
+
+  &:active {
+    background-color: @tileActiveBgColor;
+  }
+
+  .tile-icon {
+    width: 3.5rem;
+    opacity: 0.6;
+    margin-bottom: (@gutter/2);
+  }
+}
+
